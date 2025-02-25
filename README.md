@@ -1,4 +1,4 @@
-# Digital
+# Digital clock for Python
 
 from tkinter import*
 from tkinter.ttk import*
